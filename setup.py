@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.Fortigate"
 VERSION = "1.2.1"
 AUTHOR = "Jose Gerez"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Fortigate']
 INSTALL_REQUIRES = []
